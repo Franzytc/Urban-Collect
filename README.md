@@ -1,4 +1,4 @@
-# Urban Collect - Otimização de coleta de lixo
+# Urban Collect - Otimização das rotas de coleta de lixo
 ## Sobre o Projeto
 O Urban Collect é uma plataforma de Smart Waste Management criada para resolver o desafio bilionário da ineficiência na coleta de lixo em todo o Brasil.
 ## Objetivos Principais
