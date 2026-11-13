@@ -8,6 +8,5 @@ O Urban Collect é uma plataforma de Smart Waste Management criada para resolver
 ## Integrantes da Equipe
 - Franz Yerson Torrez Cori - RA : 125261532881
 - Pedro Henrique Lopes Carvalho - RA: 1252619577
-- [Nome do Aluno 3] - RA: XXXXX
 ## Link do prototipo do Figma
 -https://www.figma.com/design/MZNWXoLOQ3pqfYdSw1w1Rd/Urban-collect?node-id=0-1&t=lVnP0JkKQJmKH81O-1
